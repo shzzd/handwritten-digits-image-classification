@@ -1,0 +1,15 @@
+# EDA
+
+## Combine x_train and y_train into a DataFrame
+
+### Take a look on some digits
+#### Check 4 and 9
+#### Check 3 and 8
+
+### Histogram of each digit
+
+### Centroid
+
+### Intensity of each digits
+
+### Intensity distribution of each digits
